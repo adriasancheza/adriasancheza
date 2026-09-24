@@ -31,17 +31,40 @@ Desarrollador full‑stack. Construyo **software de gestión para empresas**, we
 
 ### 🚀 Proyectos destacados
 
-<div align="center">
-
-<a href="https://github.com/adriasancheza/quote-builder"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adriasancheza&repo=quote-builder&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=8b949e&bg_color=00000000" alt="quote-builder" /></a>
-<a href="https://github.com/adriasancheza/php-mysql-starter"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adriasancheza&repo=php-mysql-starter&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=8b949e&bg_color=00000000" alt="php-mysql-starter" /></a>
-<a href="https://github.com/adriasancheza/mysql-report-automation"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adriasancheza&repo=mysql-report-automation&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=8b949e&bg_color=00000000" alt="mysql-report-automation" /></a>
-<a href="https://github.com/adriasancheza/uptime-monitor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adriasancheza&repo=uptime-monitor&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=8b949e&bg_color=00000000" alt="uptime-monitor" /></a>
-<a href="https://github.com/adriasancheza/discord-ticket-bot"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=adriasancheza&repo=discord-ticket-bot&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=8b949e&bg_color=00000000" alt="discord-ticket-bot" /></a>
-
-**Demos en vivo:** [Quote Builder](https://adriasancheza.github.io/quote-builder/) · [Página de estado](https://adriasancheza.github.io/uptime-monitor/)
-
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/adriasancheza/quote-builder"><b>quote-builder</b></a>&nbsp;<img src="https://img.shields.io/github/actions/workflow/status/adriasancheza/quote-builder/ci.yml?style=flat-square&label=CI" alt="CI" align="right" />
+<br/><sub>React · TypeScript · Vite</sub>
+<p>Generador de presupuestos profesionales con IVA, clientes y exportación a PDF. · <a href="https://adriasancheza.github.io/quote-builder/">Demo en vivo ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/adriasancheza/php-mysql-starter"><b>php-mysql-starter</b></a>&nbsp;<img src="https://img.shields.io/github/actions/workflow/status/adriasancheza/php-mysql-starter/ci.yml?style=flat-square&label=CI" alt="CI" align="right" />
+<br/><sub>PHP · MySQL · PHPUnit · PHPStan</sub>
+<p>Base para backends PHP 8.3 + MySQL en hosting compartido: router, auth segura, CSRF, migraciones y tests.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/adriasancheza/mysql-report-automation"><b>mysql-report-automation</b></a>&nbsp;<img src="https://img.shields.io/github/actions/workflow/status/adriasancheza/mysql-report-automation/ci.yml?style=flat-square&label=CI" alt="CI" align="right" />
+<br/><sub>Python · SQLAlchemy · openpyxl</sub>
+<p>Convierte consultas SQL en informes Excel programados y los envía por correo.</p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/adriasancheza/uptime-monitor"><b>uptime-monitor</b></a>&nbsp;<img src="https://img.shields.io/github/actions/workflow/status/adriasancheza/uptime-monitor/ci.yml?style=flat-square&label=CI" alt="CI" align="right" />
+<br/><sub>TypeScript · GitHub Actions</sub>
+<p>Monitorización sin servidores con GitHub Actions, incidencias automáticas y página de estado. · <a href="https://adriasancheza.github.io/uptime-monitor/">Demo en vivo ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/adriasancheza/discord-ticket-bot"><b>discord-ticket-bot</b></a>&nbsp;<img src="https://img.shields.io/github/actions/workflow/status/adriasancheza/discord-ticket-bot/ci.yml?style=flat-square&label=CI" alt="CI" align="right" />
+<br/><sub>TypeScript · discord.js · SQLite</sub>
+<p>Bot de soporte por tickets: paneles, transcripciones, valoraciones y despliegue con Docker.</p>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ### 💼 Qué puedo aportar
 
@@ -61,12 +84,8 @@ Desarrollador full‑stack. Construyo **software de gestión para empresas**, we
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=adriasancheza&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=2563eb&icon_color=2563eb&text_color=c9d1d9&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adriasancheza&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=24292f&locale=es" alt="Estadísticas de GitHub" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adriasancheza&layout=compact&hide_border=true&bg_color=0d1117&title_color=2563eb&text_color=c9d1d9&langs_count=6&locale=es" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriasancheza&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=24292f&langs_count=6&locale=es" alt="Lenguajes más usados" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=adriasancheza&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D&locale=es" />
+  <img src="https://streak-stats.demolab.com/?user=adriasancheza&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=57606A&stroke=D0D7DE&locale=es" alt="Racha de contribuciones" />
 </picture>
 
 <picture>
